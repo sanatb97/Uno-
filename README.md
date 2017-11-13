@@ -1,2 +1,2 @@
 # Uno!
-Implementation of the popular card game UNO! using Data STructures in C.
+Implementation of a simplified version of the popular card game UNO! using Data Structures in C.
